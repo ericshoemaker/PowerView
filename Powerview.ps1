@@ -11823,3 +11823,5 @@ $Advapi32 = $Types['advapi32']
 $Kernel32 = $Types['kernel32']
 $Wtsapi32 = $Types['wtsapi32']
 
+
+Invoke-StealthUserHunter
